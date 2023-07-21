@@ -12,7 +12,7 @@ b = 'abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 c = '1234567890'
 d = '+-/*!&$#?=@'
 e = 'abcdefghijklnopqrstuvwxyz'
-"""Доброе утро"""
+
 a = random.choice(a)
 b = random.choices(b, k = 2)
 c = random.choice(c)
